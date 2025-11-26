@@ -74,8 +74,8 @@ theme_mode:
 # CDN 设置：留空
 cdn:
 
-# 头像设置：请确保你的图片放在 assets/img/ 目录下，并命名为 avatar.png
-avatar: /assets/img/avatar.png
+# 头像设置：请确保你的图片放在 assets/img/ 目录下，并命名为 avatar.jpg
+avatar: /assets/img/avatar.jpg
 
 # 社交预览图：分享链接到微信/推特时显示的图
 social_preview_image:
