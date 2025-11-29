@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, it’s siluy here! 🇨🇳
+Hi, it’s siluy here!
 ✨ Passionate fan of Messi (GOAT! 🐐), Utada Hikaru’s soulful tunes 🎤, & Ryuichi Sakamoto’s genius 🎹.
 ⚽ Barça & Argentina forever – Visca Barça! ❤️💙
 🤖 Believer in AGI future | Working to contribute in LLM/DL research!
