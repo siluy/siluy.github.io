@@ -3,6 +3,7 @@ title: The Future of AI - The Era of Experience and the Age of Design
 date: 2025-11-29 19:00 +0800
 categories: [Lecture Note]
 tags: [logging, lecture]
+math: true
 ---
 
 # Lecture Notes: The Future of AI - The Era of Experience and the Age of Design
