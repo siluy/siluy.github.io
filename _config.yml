@@ -51,9 +51,9 @@ webmaster_verifications:
 # Web Analytics Settings (网站统计，暂时留空)
 analytics:
   google:
-    id:
+    id: 'G-GF3NYRJ164'
   goatcounter:
-    id:
+    id: 'siluy'
   umami:
     id:
     domain:
@@ -66,7 +66,7 @@ analytics:
     id:
 
 pageviews:
-  provider:
+  provider: 'goatcounter'
 
 # 主题颜色：留空则跟随系统，light 为浅色，dark 为深色
 theme_mode:
